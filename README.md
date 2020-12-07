@@ -1,4 +1,4 @@
-# About the Program
+# <span style="color:cyan;"> About the Program </span>
 
 >The program is written in java and is about a word guessing game.
 
