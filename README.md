@@ -43,7 +43,7 @@ The five words with missing letters are:
 ___
 <br>
 <img src="https://lh3.googleusercontent.com/proxy/QK4KFDby0SALDKwFQJzlwI46TXcUV1VK4AgZ0uLc8fjjqBU0bmd6a8uDiT0eFwG9Y7mKHcySGsGHC5D0Ec2OUdROvt7kPWLIY6cEp1xSoxVR6_yQU-rTmyKLvOv_cmHyKYs"
-height="100" width="300">
+height="200" width="300">
 
 ___
 
