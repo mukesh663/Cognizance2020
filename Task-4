@@ -1,0 +1,55 @@
+
+import java.util.Scanner;
+public class Game {
+
+	public static void main(String[] args) {
+	Scanner ans=new Scanner(System.in);
+    String a,b,c,d,e;
+    int count=0;
+    a="language";
+    b="computer";
+    c="smartphone";
+    d="software";
+    e="firewall";
+    
+    System.out.println("The first word is l_ng_a_e");
+    String a1=ans.nextLine();
+    if(a1.equals(a)) {
+    	System.out.println("Congratulations!!! you have found the correct word");
+        count++; }
+    else
+    	System.out.println("You have guessed incorrectly. The correct word is language");
+    System.out.println("The second word is c_mp_t_r");
+    String a2=ans.nextLine();
+    if(a2.equals(b)) {
+    	System.out.println("Congratulations!!! you have found the correct word");
+        count++; }
+    else
+    	System.out.println("You have guessed incorrectly. The correct word is computer");
+    System.out.println("The third word is s_a_tp_o_e");
+    String a3=ans.nextLine();
+    if(a3.equals(c)) {
+    	System.out.println("Congratulations!!! you have found the correct word");
+        count++; }   
+    else
+    	System.out.println("You have guessed incorrectly. The correct word is smartphone");
+    System.out.println("The fourth word is s_ft_a_e");
+    String a4=ans.nextLine();
+    if(a4.equals(d)) {
+    	System.out.println("Congratulations!!! you have found the correct word");
+        count++; }
+    else
+    	System.out.println("You have guessed incorrectly. The correct word is software");
+    System.out.println("The fifth and final word is f_re_a_l");
+    String a5=ans.nextLine();
+    if(a5.equals(e)) {
+    	System.out.println("Congratulations!!! you have found the correct word");
+        count++; }
+    else
+    	System.out.println("You have guessed incorrectly. The correct word is firewall");
+    
+    System.out.println("Your final score is "+count+" out of 5");
+    ans.close();
+	}
+
+}
