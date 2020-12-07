@@ -11,7 +11,8 @@ public class Game {
     c="smartphone";
     d="software";
     e="firewall";
-    
+    System.out.println("Welcome to the word-guessing game");
+    System.out.println("A word with missing letters will be given, you have to enter the correct word including all letters in missing spaces.");
     System.out.println("The first word is l_ng_a_e");
     String a1=ans.nextLine();
     if(a1.equals(a)) {
