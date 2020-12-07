@@ -24,7 +24,9 @@ if(a1.equals(a))
 
 * At last it prints the player's score out of 5.
 ___
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pe.com%2F2018%2F01%2F27%2Fbest-in-law-new-prop-65-warning-rules-hit-shopkeepers-in-august%2F&psig=AOvVaw2agSFSOIrLwLEG3v1Z91hb&ust=1607425510806000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjlh-7cu-0CFQAAAAAdAAAAABAp)
+
+<img src="https://ariste.info/wp-content/uploads/2020/04/1200px-Antu_dialog-warning.svg_-1.png" height="200" width="200">
+
 
 ## **Warning:**
 ***Don't proceed if you have not yet played the game !!!***
@@ -39,8 +41,11 @@ The five words with missing letters are:
 |s_ft_a_e         |software        |
 |f_re_a_l         |firewall        |
 ___
+<br>
+<img src="https://lh3.googleusercontent.com/proxy/QK4KFDby0SALDKwFQJzlwI46TXcUV1VK4AgZ0uLc8fjjqBU0bmd6a8uDiT0eFwG9Y7mKHcySGsGHC5D0Ec2OUdROvt7kPWLIY6cEp1xSoxVR6_yQU-rTmyKLvOv_cmHyKYs"
+height="150" width="300">
 
-
+___
 
 
 
